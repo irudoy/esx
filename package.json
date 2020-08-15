@@ -40,8 +40,9 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
-    "debug": "^4.1.0",
-    "esx-optimize": "^1.0.0"
+    "debug": "^4.1.1",
+    "esx-optimize": "^1.0.0",
+    "supports-color": "^7.1.0"
   },
   "directories": {
     "lib": "lib",
